@@ -1,0 +1,2 @@
+# forkify
+Vanilla JavaScript project
